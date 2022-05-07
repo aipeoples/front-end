@@ -1,1 +1,1 @@
-# readme file
+# JavaScript , TypeScript , ReactJS Aipeoples Study 
